@@ -1,0 +1,22 @@
+{
+  "name": "maple-auth",
+  "version": "1.0.0",
+  "description": "An auth library that uses bcrypt password hashing and email support",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topher-codes/maple-auth.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "Christopher Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topher-codes/maple-auth/issues"
+  },
+  "homepage": "https://github.com/topher-codes/maple-auth#readme"
+}
