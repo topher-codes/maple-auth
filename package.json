@@ -21,7 +21,7 @@
   "homepage": "https://github.com/topher-codes/maple-auth#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
-    "jose": "^4.13.1"
+    "jose": "^4.15.5"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0"
